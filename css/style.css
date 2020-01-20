@@ -43,9 +43,9 @@ h4.indifferent {
 }
 
 .indifferent {
-  border: 1px solid #9c9c59;
+  border: 1px solid #b5b518;
   box-sizing: border-box;
-  box-shadow:  -1px 1px #9c9c59, -2px 2px #9c9c59, -3px 3px #9c9c59, -4px 4px #9c9c59, -5px 5px #9c9c59;
+  box-shadow:  -1px 1px #b5b518, -2px 2px #9c9c59, -3px 3px #9c9c59, -4px 4px #9c9c59, -5px 5px #9c9c59;
   background-color: #dddd22;
 }
 
