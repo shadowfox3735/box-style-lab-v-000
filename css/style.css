@@ -30,6 +30,10 @@ h4.amiable {
   background: linear-gradient(to right, #136127, #66e887);
 }
 
+h4.indifferent {
+  
+}
+
 .amiable {
   border: 1px solid #22aa44;
   box-sizing: border-box;
