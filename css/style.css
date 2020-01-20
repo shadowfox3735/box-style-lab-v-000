@@ -50,9 +50,9 @@ h4.indifferent {
 }
 
 .dubious {
-  border: 1px solid #ad5757;
+  border: 1px solid #963030;
   box-sizing: border-box;
-  box-shadow:  -1px 1px #ad5757, -2px 2px #ad5757, -3px 3px #ad5757, -4px 4px #ad5757, -5px 5px #ad5757;
+  box-shadow:  -1px 1px #963030, -2px 2px #963030, -3px 3px #963030, -4px 4px #963030, -5px 5px #963030;
   background-color: #dd4444;
 }
 
